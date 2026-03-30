@@ -1,0 +1,29 @@
+
+======================================
+   My Open Source Manifesto
+   Preekshit | 24BAI10651
+   Generated on: 30 March 2026
+======================================
+
+Every day, I rely on Vs code — a tool I did not buy,
+but one that was gifted to me by a community of people
+who believed that knowledge should be free.
+
+To me, freedom means Freedom to run and modify.
+That single word is why open source matters —
+not just as a licensing model, but as a philosophy.
+When source code is open, power shifts from corporations
+to individuals. Anyone can read, learn, fix, and improve.
+
+One day, I want to build Code and share it freely.
+Not because I have to, but because someone once did the same for me.
+That is the chain of open source — each generation
+standing on the shoulders of the last.
+
+Git taught me that even the most critical infrastructure
+in the world can be built openly, maintained by volunteers,
+and trusted by millions. That is not an accident.
+That is what happens when freedom is taken seriously.
+
+— Preekshit, 30 March 2026
+======================================
